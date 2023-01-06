@@ -1,0 +1,25 @@
+nav {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.nav-container {
+    background-color: rgba(1, 0, 3, 0.705);
+
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav img {
+    height: 50px;
+}
+
+.nav-link a {
+    text-decoration: none;
+    color: white;
+    margin-left: 8px;
+}
